@@ -5,7 +5,7 @@
 A curated list of NeRF and Implicit Representations papers for 3D Reconstruction, inspired by [
 awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering).
 
-Any contributions are much appreciated, please feel free to [pull a request]([https://github.com/xiaweihao/awesome-image-translation/pulls](https://github.com/imbinwang/awesome-nerf-3d-reconstruction/pulls)) and offer the paper information as following format:
+Any contributions are much appreciated, please feel free to [pull a request](https://github.com/imbinwang/awesome-nerf-3d-reconstruction/pulls) and offer the paper information as following format:
 
 ``` markdown
 **Title of Paper.**<br>
