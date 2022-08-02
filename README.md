@@ -67,7 +67,7 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.10689)] [[Project](https://lingj
 
 **UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction.**<br>
 *Michael Oechsle, Songyou Peng, Andreas Geiger.*<br>
-NeurIPS 2021. [[PDF](https://arxiv.org/abs/2104.10078)] [[Project](https://moechsle.github.io/unisurf/)] [[Github](https://github.com/autonomousvision/unisurf)]
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.10078)] [[Project](https://moechsle.github.io/unisurf/)] [[Github](https://github.com/autonomousvision/unisurf)]
 
 **Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance.**<br>
 *Lior Yariv, Yoni Kasten, Dror Moran, Meirav Galun, Matan Atzmon, Ronen Basri, Yaron Lipman.*<br>
