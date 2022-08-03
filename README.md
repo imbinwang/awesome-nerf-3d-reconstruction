@@ -87,6 +87,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1901.05103)] [[Github](https://github.co
 *Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, Yifan Wang, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stephen Lombardi, Tomas Simon, Christian Theobalt, Matthias Niessner, Jonathan T. Barron, Gordon Wetzstein, Michael Zollhoefer, Vladislav Golyanik.*<br>
 EUROGRAPHICS 2022 State of the Art Report. [[PDF](https://arxiv.org/abs/2111.05849)]
 
+**Neural Fields in Visual Computing and Beyond.**<br>
+*Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, Srinath Sridhar.*<br>
+EUROGRAPHICS 2022 State of the Art Report. [[PDF](https://arxiv.org/abs/2111.11426)] [[Project](https://neuralfields.cs.brown.edu/eg22.html)]
+
 **Neural Fields in Computer Vision.**<br>
 CVPR 2022 Tutorial. [[Project](https://neuralfields.cs.brown.edu/cvpr22.html)]
 
