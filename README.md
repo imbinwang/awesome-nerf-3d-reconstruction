@@ -1,8 +1,8 @@
-# Awesome Nerf 3D Reconstruction
+# Awesome Neural Fields for 3D Reconstruction
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A curated list of NeRF and Implicit Representations papers for 3D Reconstruction, inspired by [
+A curated list of Neural Fields or Implicit Representations papers for 3D Reconstruction, inspired by [
 awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering).
 
 Any contributions are much appreciated, please feel free to [pull a request](https://github.com/imbinwang/awesome-nerf-3d-reconstruction/pulls) and offer the paper information as following format:
