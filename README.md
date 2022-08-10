@@ -113,4 +113,6 @@ SIGGRAPH 2021 Course. [[Project](https://www.neuralrender.com/)]
 
 **[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)**
 
+**[awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations)**
+
 **[Awesome Implicit NeRF Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)**
