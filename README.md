@@ -101,10 +101,6 @@ SIGGRAPH 2021 Course. [[Project](https://www.neuralrender.com/)]
 
 **[neurecon](https://github.com/ventusff/neurecon)**
 
-**[NeRF：用深度学习完成3D渲染任务的蹿红](https://zhuanlan.zhihu.com/p/390848839?utm_source=im.xinda.youdu&utm_medium=social&utm_oi=43102693752832)**
-
-**[Neural Radiance Field’s Volume Rendering 公式分析](https://raymondkevin.top/2021/07/22/neural-radiance-fields-volume-rendering-%E5%85%AC%E5%BC%8F%E5%88%86%E6%9E%90/)**
-
 ## Other Awesome Lists
 
 **[Awesome 3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)**
