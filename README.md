@@ -29,6 +29,14 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2206.05737)] [[Project](https://www.xxlo
 *Jiepeng Wang, Peng Wang, Xiaoxiao Long, Christian Theobalt, Taku Komura, Lingjie Liu, Wenping Wang.*<br>
 arXiv preprint 2022. [[PDF](https://arxiv.org/abs/2206.13597)] [[Project](https://jiepengwang.github.io/NeuRIS/)]
 
+**GO-Surf: Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction.**<br>
+*Jingwen Wang, Tymoteusz Bleja, Lourdes Agapito.*<br>
+3DV 2022. [[PDF](https://arxiv.org/abs/2206.14735)] [[Project](https://jingwenwang95.github.io/go_surf/)]
+
+**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM.**<br>
+*Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.12130)] [[Project](https://pengsongyou.github.io/nice-slam)] [[Github](https://github.com/cvg/nice-slam)]
+
 **BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion.**<br>
 *Kejie Li, Yansong Tang, Victor Adrian Prisacariu, Philip H.S. Torr.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2204.01139)] [[Github](https://github.com/likojack/bnv_fusion)] [[Video](https://www.youtube.com/watch?v=ptx5vtQ9SvM)]
