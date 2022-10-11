@@ -91,6 +91,8 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1901.05103)] [[Github](https://github.co
 
 ## Related Resources
 
+### Survey/Course
+
 **Advances in Neural Rendering.**<br>
 *Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, Yifan Wang, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stephen Lombardi, Tomas Simon, Christian Theobalt, Matthias Niessner, Jonathan T. Barron, Gordon Wetzstein, Michael Zollhoefer, Vladislav Golyanik.*<br>
 EUROGRAPHICS 2022 State of the Art Report. [[PDF](https://arxiv.org/abs/2111.05849)]
@@ -106,6 +108,12 @@ CVPR 2022 Tutorial. [[Project](https://neuralfields.cs.brown.edu/cvpr22.html)]
 SIGGRAPH 2021 Course. [[Project](https://www.neuralrender.com/)]
 
 **[NeRF at CVPR 2022](https://dellaert.github.io/NeRF22/)**
+
+### Open Source Framework (for Nerf)
+
+**[JNeRF](https://github.com/Jittor/JNeRF)**
+
+**[xrnerf](https://github.com/openxrlab/xrnerf)**
 
 **[neurecon](https://github.com/ventusff/neurecon)**
 
