@@ -113,6 +113,8 @@ SIGGRAPH 2021 Course. [[Project](https://www.neuralrender.com/)]
 
 **[JNeRF](https://github.com/Jittor/JNeRF)**
 
+**[nerfstudio](https://github.com/nerfstudio-project/nerfstudio)**
+
 **[xrnerf](https://github.com/openxrlab/xrnerf)**
 
 **[neurecon](https://github.com/ventusff/neurecon)**
