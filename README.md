@@ -21,6 +21,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## Papers
 
+**HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details.**<br>
+*Yiqun Wang, Ivan Skorokhodov, Peter Wonka.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2206.07850)] [[Github](https://github.com/yiqun-wang/HFS)]
+
 **SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse views.**<br>
 *Xiaoxiao Long, Cheng Lin, Peng Wang, Taku Komura, Wenping Wang.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2206.05737)] [[Project](https://www.xxlong.site/SparseNeuS/)] [[Github](https://github.com/xxlong0/SparseNeuS)]
