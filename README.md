@@ -21,6 +21,14 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## Papers
 
+**Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion.**<br>
+*Tengfei Wang, Bo Zhang, Ting Zhang, Shuyang Gu, Jianmin Bao, Tadas Baltrusaitis, Jingjing Shen, Dong Chen, Fang Wen, Qifeng Chen, Baining Guo.*<br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2212.06135)] [[Project](https://3d-avatar-diffusion.microsoft.com/)]
+
+**Reconstructing Hand-Held Objects from Monocular Video.**<br>
+*Di Huang, Xiaopeng Ji, Xingyi He, Jiaming Sun, Tong He, Qing Shuai, Wanli Ouyang, Xiaowei Zhou.*<br>
+SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2211.16835)] [[Project](https://dihuangdh.github.io/hhor/)] [[Github](https://github.com/dihuangdh/HHOR)]
+
 **HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details.**<br>
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka.*<br>
 NeurIPS 2022. [[PDF](https://arxiv.org/abs/2206.07850)] [[Github](https://github.com/yiqun-wang/HFS)]
