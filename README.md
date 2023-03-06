@@ -21,6 +21,14 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## Papers
 
+**BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis.**<br>
+*Anonymous Authors.*<br>
+arXiv 2023. [[PDF](https://bakedsdf.github.io/2022_BakedSDF.pdf)] [[Project](https://bakedsdf.github.io/)]
+
+**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement.**<br>
+*Jiaxiang Tang, Hang Zhou, Xiaokang Chen, Tianshu Hu, Errui Ding, Jingdong Wang, Gang Zeng.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.02091)] [[Project](https://github.com/ashawkey/nerf2mesh)]
+
 **Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion.**<br>
 *Tengfei Wang, Bo Zhang, Ting Zhang, Shuyang Gu, Jianmin Bao, Tadas Baltrusaitis, Jingjing Shen, Dong Chen, Fang Wen, Qifeng Chen, Baining Guo.*<br>
 arXiv 2022. [[PDF](https://arxiv.org/abs/2212.06135)] [[Project](https://3d-avatar-diffusion.microsoft.com/)]
